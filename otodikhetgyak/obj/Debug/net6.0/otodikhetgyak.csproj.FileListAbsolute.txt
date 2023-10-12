@@ -1,0 +1,14 @@
+C:\Egyetem\otodikhetgyak\otodikhetgyak\bin\Debug\net6.0\otodikhetgyak.exe
+C:\Egyetem\otodikhetgyak\otodikhetgyak\bin\Debug\net6.0\otodikhetgyak.deps.json
+C:\Egyetem\otodikhetgyak\otodikhetgyak\bin\Debug\net6.0\otodikhetgyak.runtimeconfig.json
+C:\Egyetem\otodikhetgyak\otodikhetgyak\bin\Debug\net6.0\otodikhetgyak.dll
+C:\Egyetem\otodikhetgyak\otodikhetgyak\bin\Debug\net6.0\otodikhetgyak.pdb
+C:\Egyetem\otodikhetgyak\otodikhetgyak\obj\Debug\net6.0\otodikhetgyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\otodikhetgyak\otodikhetgyak\obj\Debug\net6.0\otodikhetgyak.AssemblyInfoInputs.cache
+C:\Egyetem\otodikhetgyak\otodikhetgyak\obj\Debug\net6.0\otodikhetgyak.AssemblyInfo.cs
+C:\Egyetem\otodikhetgyak\otodikhetgyak\obj\Debug\net6.0\otodikhetgyak.csproj.CoreCompileInputs.cache
+C:\Egyetem\otodikhetgyak\otodikhetgyak\obj\Debug\net6.0\otodikhetgyak.dll
+C:\Egyetem\otodikhetgyak\otodikhetgyak\obj\Debug\net6.0\refint\otodikhetgyak.dll
+C:\Egyetem\otodikhetgyak\otodikhetgyak\obj\Debug\net6.0\otodikhetgyak.pdb
+C:\Egyetem\otodikhetgyak\otodikhetgyak\obj\Debug\net6.0\otodikhetgyak.genruntimeconfig.cache
+C:\Egyetem\otodikhetgyak\otodikhetgyak\obj\Debug\net6.0\ref\otodikhetgyak.dll
